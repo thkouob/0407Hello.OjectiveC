@@ -5,6 +5,7 @@
 //  Created by thkouobchen on 2016/4/7.
 //  Copyright © 2016年 thkouobchen. All rights reserved.
 //
+// func放在.m
 
 #import "AppDelegate.h"
 

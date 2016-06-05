@@ -14,6 +14,11 @@
 
 @implementation ViewController
 
+
+- (IBAction)onClick:(id)sender {
+    self.myLabel.text = @"hello thkouob";
+}
+
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
